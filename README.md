@@ -131,7 +131,7 @@
 
 ## Github Stats 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=meetprajapati19&count_private=true&show_icons=true&theme=gotham" width="48%" >
+<!--<img  src="https://github-readme-stats.vercel.app/api?username=meetprajapati19&count_private=true&show_icons=true&theme=gotham" width="48%" >-->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=meetprajapati19&theme=gotham" width="48%" >
 <br>
 
