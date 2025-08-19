@@ -69,6 +69,15 @@
         <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="65" height="65" />
       <br>vite
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="vite" width="65" height="65" />
+      <br>vite
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" alt="tailwind" width="65" height="65" />
+      <br>vite
+    </td>
+    
 
   </tr>
 </table>
