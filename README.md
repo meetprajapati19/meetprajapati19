@@ -69,14 +69,7 @@
         <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="65" height="65" />
       <br>vite
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="65" height="65" />
-      <br>nextjs
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="65" height="65" />
-      <br>tailwind
-    </td>
+   
     
 
   </tr>
@@ -112,6 +105,14 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
       <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="65" height="65" />
+      <br>nextjs
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="65" height="65" />
+      <br>tailwind
     </td>
   </tr>
 </table>
