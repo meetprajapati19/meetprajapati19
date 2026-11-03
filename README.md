@@ -57,6 +57,11 @@
         <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="65" height="65" />
       <br>flutter
     </td>
+    </td>
+         <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="65" height="65" />
+      <br>supabase
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="65" height="65" />
       <br>postman
